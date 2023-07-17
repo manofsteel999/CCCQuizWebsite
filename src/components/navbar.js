@@ -72,7 +72,7 @@ const Navbar = () => {
 			<AppBar position='static'>
 				<Toolbar>
 					<Typography color='inherit' variant='h6' className={classes.title}>
-						SPOCC'20-Quiz
+						SPOCC'21-Quiz
 					</Typography>
 					{/* {user && (
 						<Typography color='inherit' variant='h6' className={classes.title}>
